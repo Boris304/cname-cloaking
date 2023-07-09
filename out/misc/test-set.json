@@ -1,0 +1,6433 @@
+{
+  "sunnybrook.ca/research/media/item.asp?c=2&i=2069&f=covid-19-isolated-2020": {
+    "cookies": {
+      "sunnybrook.ca": {
+        "cookie_data": [
+          {
+            "name": "f5avraaaaaaaaaaaaaaaa_session_",
+            "expires": -1
+          },
+          {
+            "name": "f5avraaaaaaaaaaaaaaaa_session_",
+            "expires": -1
+          },
+          {
+            "name": "f5avraaaaaaaaaaaaaaaa_session_",
+            "expires": -1
+          },
+          {
+            "name": "f5avraaaaaaaaaaaaaaaa_session_",
+            "expires": -1
+          },
+          {
+            "name": "f5_cspm",
+            "expires": -1
+          },
+          {
+            "name": "f5avraaaaaaaaaaaaaaaa_session_",
+            "expires": -1
+          },
+          {
+            "name": "f5avraaaaaaaaaaaaaaaa_session_",
+            "expires": -1
+          },
+          {
+            "name": "f5avraaaaaaaaaaaaaaaa_session_",
+            "expires": -1
+          },
+          {
+            "name": "f5avraaaaaaaaaaaaaaaa_session_",
+            "expires": -1
+          },
+          {
+            "name": "ASPSESSIONIDASQSRCTA",
+            "expires": -1
+          },
+          {
+            "name": "cookiesession1",
+            "expires": 31543161
+          },
+          {
+            "name": "_gcl_au",
+            "expires": 7783165
+          },
+          {
+            "name": "_ga_0R8SYFCR1F",
+            "expires": 34567165
+          },
+          {
+            "name": "_fbp",
+            "expires": 7783166
+          },
+          {
+            "name": "BIGipServersunnybrook.ca_http_pool",
+            "expires": -1
+          },
+          {
+            "name": "_ga",
+            "expires": 34567166
+          },
+          {
+            "name": "_gid",
+            "expires": 93566
+          },
+          {
+            "name": "_gat",
+            "expires": 7226
+          },
+          {
+            "name": "_gat_UA-525351-33",
+            "expires": 7226
+          },
+          {
+            "name": "_ga_K54KX2S7HX",
+            "expires": 34567166
+          },
+          {
+            "name": "_uetsid",
+            "expires": 93584
+          },
+          {
+            "name": "_uetvid",
+            "expires": 33703184
+          },
+          {
+            "name": "_pin_unauth",
+            "expires": 31543200
+          },
+          {
+            "name": "f5avr0042754724aaaaaaaaaaaaaaaa_cspm_",
+            "expires": -1
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "doubleclick.net": {
+        "cookie_data": [
+          {
+            "name": "IDE",
+            "expires": 33703166
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "acuityplatform.com": {
+        "cookie_data": [
+          {
+            "name": "auid",
+            "expires": 31543188
+          },
+          {
+            "name": "aum",
+            "expires": 31543188
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "agkn.com": {
+        "cookie_data": [
+          {
+            "name": "ab",
+            "expires": 31543177
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "advertising.com": {
+        "cookie_data": [
+          {
+            "name": "A3",
+            "expires": 31564777
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "bidswitch.net": {
+        "cookie_data": [
+          {
+            "name": "tuuid",
+            "expires": 31543178
+          },
+          {
+            "name": "c",
+            "expires": 31543178
+          },
+          {
+            "name": "tuuid_lu",
+            "expires": 31543178
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "bing.com": {
+        "cookie_data": [
+          {
+            "name": "MUID",
+            "expires": 33703184
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "tapad.com": {
+        "cookie_data": [
+          {
+            "name": "TapAd_TS",
+            "expires": 5191188
+          },
+          {
+            "name": "TapAd_DID",
+            "expires": 5191188
+          },
+          {
+            "name": "TapAd_3WAY_SYNCS",
+            "expires": 5191188
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.tiktok.com": [
+        {
+          "domain": "www.tiktok.com.edgesuite.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "a2047.api10.akamai.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1210,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.mcmaster.ca": [
+        {
+          "domain": "pinwps02.uts.mcmaster.ca",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "linkedin.com": [],
+      "brighterworld.mcmaster.ca": [
+        {
+          "domain": "pinwps02.uts.mcmaster.ca",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "health.sunnybrook.ca": [],
+      "instagram.com": [],
+      "sunnybrook.ca": [],
+      "youtube.com": [],
+      "donate.sunnybrook.ca": [
+        {
+          "domain": "5653a.bbnc.bbcust.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "facebook.com": [],
+      "www.utoronto.ca": [],
+      "twitter.com": []
+    }
+  },
+  "truepundit.com/deadly-cover-up-fauci-approved-hydroxychloroquine-15-years-ago-to-cure-coronaviruses-nobody-needed-to-die": {
+    "cookies": {
+      "www.truepundit.com": {
+        "cookie_data": [
+          {
+            "name": "g36FastPopSessionRequestNumber",
+            "expires": -1
+          },
+          {
+            "name": "a",
+            "expires": 32393
+          },
+          {
+            "name": "token_QlJAAAAAAAAArRMIRsGBk-hpXXMDyS9EWV8qBEI",
+            "expires": 28796
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "truepundit.com": {
+        "cookie_data": [
+          {
+            "name": "_ga",
+            "expires": 34567195
+          },
+          {
+            "name": "_gid",
+            "expires": 93595
+          },
+          {
+            "name": "_gat",
+            "expires": 7252
+          },
+          {
+            "name": "_gat_UA-85874202-1",
+            "expires": 7255
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "engine.4dsply.com": {
+        "cookie_data": [
+          {
+            "name": "IKSR",
+            "expires": -1
+          },
+          {
+            "name": "INF_DFL8",
+            "expires": -1
+          },
+          {
+            "name": "IUID",
+            "expires": 34567194
+          },
+          {
+            "name": "ISSH",
+            "expires": -1
+          },
+          {
+            "name": "VMI",
+            "expires": -1
+          },
+          {
+            "name": "CHN",
+            "expires": 34567194
+          },
+          {
+            "name": "MSSH",
+            "expires": 34567194
+          },
+          {
+            "name": "MSRH",
+            "expires": 34567194
+          },
+          {
+            "name": "ILP",
+            "expires": 34567194
+          },
+          {
+            "name": "ILPLU",
+            "expires": 34567194
+          },
+          {
+            "name": "ILEALC",
+            "expires": 34567194
+          },
+          {
+            "name": "ILMPF",
+            "expires": 21593
+          },
+          {
+            "name": "IPMPLU",
+            "expires": 34567194
+          },
+          {
+            "name": "IPMUID",
+            "expires": 34567194
+          },
+          {
+            "name": "BSWUID",
+            "expires": 34567194
+          },
+          {
+            "name": "IBL",
+            "expires": 34567194
+          },
+          {
+            "name": "ISH",
+            "expires": 34567194
+          },
+          {
+            "name": "ISH_Q",
+            "expires": 34567194
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.truepundit.com": [],
+      "adsco.re": [],
+      "www.addtoany.com": [],
+      "truepundit.com": [],
+      "onenewsnow.com": [],
+      "libertyoutfitters.co": []
+    }
+  },
+  "ox.ac.uk/news/2020-07-20-new-study-reveals-oxford-coronavirus-vaccine-produces-strong-immune-response": {
+    "cookies": {
+      "youtube.com": {
+        "cookie_data": [
+          {
+            "name": "YSC",
+            "expires": -1
+          },
+          {
+            "name": "VISITOR_INFO1_LIVE",
+            "expires": 15559161
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "www.ox.ac.uk": {
+        "cookie_data": [
+          {
+            "name": "CookieControl",
+            "expires": 7783179
+          },
+          {
+            "name": "ln_or",
+            "expires": 93598
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "linkedin.com": {
+        "cookie_data": [
+          {
+            "name": "li_sugr",
+            "expires": 7783200
+          },
+          {
+            "name": "bcookie",
+            "expires": 31543201
+          },
+          {
+            "name": "lidc",
+            "expires": 93600
+          },
+          {
+            "name": "UserMatchHistory",
+            "expires": 2599200
+          },
+          {
+            "name": "AnalyticsSyncHistory",
+            "expires": 2599200
+          },
+          {
+            "name": "li_gc",
+            "expires": 15559200
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "www.linkedin.com": {
+        "cookie_data": [
+          {
+            "name": "bscookie",
+            "expires": 31543200
+          }
+        ],
+        "chain": [
+          {
+            "domain": "www-linkedin-com.l-0005.l-msedge.net",
+            "TTL": 236,
+            "is_tracker": false,
+            "is_CDN": false,
+            "is_cloaking": false
+          },
+          {
+            "domain": "l-0005.l-msedge.net",
+            "TTL": 201,
+            "is_tracker": false,
+            "is_CDN": false,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.tiktok.com": [
+        {
+          "domain": "www.tiktok.com.edgesuite.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "a2047.api10.akamai.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "medium.com": [],
+      "staff.admin.ox.ac.uk": [
+        {
+          "domain": "env-prod-01.web.ox.ac.uk",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.sport.ox.ac.uk": [
+        {
+          "domain": "env-prod-01.web.ox.ac.uk",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "compliance.web.ox.ac.uk": [
+        {
+          "domain": "env-prod-01.web.ox.ac.uk",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "weibo.com": [],
+      "www.ovg.ox.ac.uk": [
+        {
+          "domain": "ovg.ox.haiku.fry-it.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 234,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 199,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "theconversation.com": [],
+      "uni-of-oxford.custhelp.com": [],
+      "outlook.office.com": [
+        {
+          "domain": "substrate.office.com",
+          "TTL": 14,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "outlook.office365.com",
+          "TTL": 138,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "ooc-g2.tm-4.office.com",
+          "TTL": 6,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "outlook.ms-acdc.office.com",
+          "TTL": 43,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "AMS-efz.ms-acdc.office.com",
+          "TTL": 43,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "compliance.admin.ox.ac.uk": [
+        {
+          "domain": "env-prod-01.web.ox.ac.uk",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.youtube.com": [
+        {
+          "domain": "youtube-ui.l.google.com",
+          "TTL": 186,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1209,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "covid19vaccinetrial.co.uk": [],
+      "www.conference-oxford.com": [],
+      "www.campaign.ox.ac.uk": [],
+      "www.ox.ac.uk": [],
+      "www.jobs.ox.ac.uk": [
+        {
+          "domain": "env-prod-01.web.ox.ac.uk",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.alumni.ox.ac.uk": [
+        {
+          "domain": "env-prod-01.web.ox.ac.uk",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "communications.web.ox.ac.uk": [
+        {
+          "domain": "env-prod-01.web.ox.ac.uk",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1127,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1127,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.reddit.com": [
+        {
+          "domain": "reddit.map.fastly.net",
+          "TTL": 1579,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "bit.ly": [],
+      "www.jenner.ac.uk": [
+        {
+          "domain": "013.ox.haiku.fry-it.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "twitter.com": [],
+      "www.research.ox.ac.uk": []
+    }
+  },
+  "cdc.gov/coronavirus/2019-nCoV/summary.html": {
+    "cookies": {
+      "www.cdc.gov": {
+        "cookie_data": [
+          {
+            "name": "TS0196e5be",
+            "expires": -1
+          }
+        ],
+        "chain": [
+          {
+            "domain": "www.akam.cdc.gov",
+            "TTL": 299,
+            "is_tracker": false,
+            "is_CDN": false,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "cdc.gov": {
+        "cookie_data": [
+          {
+            "name": "akamai_visit_id",
+            "expires": 34567199
+          },
+          {
+            "name": "Akamai-Request-ID",
+            "expires": -1
+          },
+          {
+            "name": "AMCV_66818A1A54FA2E890A4C98A6%40AdobeOrg",
+            "expires": 34567200
+          },
+          {
+            "name": "s_plt",
+            "expires": -1
+          },
+          {
+            "name": "s_pltp",
+            "expires": -1
+          },
+          {
+            "name": "s_ptc",
+            "expires": -1
+          },
+          {
+            "name": "gpv_pageurl",
+            "expires": 8999
+          },
+          {
+            "name": "gpv_pagename",
+            "expires": 8999
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1251,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "tools.cdc.gov": [
+        {
+          "domain": "tools.akam.cdc.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.snapchat.com": [
+        {
+          "domain": "web-gcp.api.snapchat.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "web-gcp.api.sc-gw.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 275,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 240,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "jobs.cdc.gov": [
+        {
+          "domain": "jobs.akam.cdc.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.pinterest.com": [
+        {
+          "domain": "www-pinterest-com.gslb.pinterest.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.gslb.pinterest.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.pinterest.com.edgekey.net",
+          "TTL": 60,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e6449.a.akamaiedge.net",
+          "TTL": 1172,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.youtube.com": [
+        {
+          "domain": "youtube-ui.l.google.com",
+          "TTL": 227,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1169,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1169,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.cdc.gov": [
+        {
+          "domain": "www.akam.cdc.gov",
+          "TTL": 297,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.usa.gov": [
+        {
+          "domain": "www.usa.gov.external-domains-production.cloud.gov",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "archive.cdc.gov": [
+        {
+          "domain": "archive.akam.cdc.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "emergency.cdc.gov": [
+        {
+          "domain": "emergency.akam.cdc.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "wwwn.cdc.gov": [],
+      "oig.hhs.gov": [],
+      "twitter.com": [],
+      "www.hhs.gov": [
+        {
+          "domain": "www.hhs.gov.edgekey.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8604.dscx.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "wwwnc.cdc.gov": [
+        {
+          "domain": "wwwnc.akam.cdc.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported": {
+    "cookies": {
+      "annals.org": {
+        "cookie_data": [
+          {
+            "name": "JSESSIONID",
+            "expires": -1
+          },
+          {
+            "name": "SERVER",
+            "expires": -1
+          },
+          {
+            "name": "MAID",
+            "expires": 25927196
+          },
+          {
+            "name": "MACHINE_LAST_SEEN",
+            "expires": 25927196
+          },
+          {
+            "name": "__cf_bm",
+            "expires": 8996
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "acpjournals.org": {
+        "cookie_data": [
+          {
+            "name": "__cf_bm",
+            "expires": 8996
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "www.acpjournals.org": {
+        "cookie_data": [
+          {
+            "name": "cf_chl_2",
+            "expires": 10796
+          },
+          {
+            "name": "cf_chl_rc_m",
+            "expires": 10799
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.cloudflare.com": []
+    }
+  },
+  "truepundit.com/cover-up-fauci-approved-chloroquine-hydroxychloroquine-15-years-ago-to-treat-nobody-needed-to-die": {
+    "cookies": {
+      "www.truepundit.com": {
+        "cookie_data": [
+          {
+            "name": "g36FastPopSessionRequestNumber",
+            "expires": -1
+          },
+          {
+            "name": "a",
+            "expires": 32365
+          },
+          {
+            "name": "token_QlJAAAAAAAAArRMIRsGBk-hpXXMDyS9EWV8qBEI",
+            "expires": 28767
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "truepundit.com": {
+        "cookie_data": [
+          {
+            "name": "_ga",
+            "expires": 34567168
+          },
+          {
+            "name": "_gid",
+            "expires": 93568
+          },
+          {
+            "name": "_gat",
+            "expires": 7226
+          },
+          {
+            "name": "_gat_UA-85874202-1",
+            "expires": 7228
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "engine.4dsply.com": {
+        "cookie_data": [
+          {
+            "name": "IKSR",
+            "expires": -1
+          },
+          {
+            "name": "INF_DFL8",
+            "expires": -1
+          },
+          {
+            "name": "IUID",
+            "expires": 34567168
+          },
+          {
+            "name": "ISSH",
+            "expires": -1
+          },
+          {
+            "name": "VMI",
+            "expires": -1
+          },
+          {
+            "name": "CHN",
+            "expires": 34567168
+          },
+          {
+            "name": "MSSH",
+            "expires": 34567168
+          },
+          {
+            "name": "MSRH",
+            "expires": 34567168
+          },
+          {
+            "name": "ILP",
+            "expires": 34567168
+          },
+          {
+            "name": "ILPLU",
+            "expires": 34567168
+          },
+          {
+            "name": "ILEALC",
+            "expires": 34567168
+          },
+          {
+            "name": "ILMPF",
+            "expires": 21568
+          },
+          {
+            "name": "IPMPLU",
+            "expires": 34567168
+          },
+          {
+            "name": "IPMUID",
+            "expires": 34567168
+          },
+          {
+            "name": "BSWUID",
+            "expires": 34567168
+          },
+          {
+            "name": "IBL",
+            "expires": 34567168
+          },
+          {
+            "name": "ISH",
+            "expires": 34567168
+          },
+          {
+            "name": "ISH_Q",
+            "expires": 34567168
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.truepundit.com": [],
+      "adsco.re": [],
+      "www.addtoany.com": [],
+      "truepundit.com": [],
+      "onenewsnow.com": [],
+      "libertyoutfitters.co": []
+    }
+  },
+  "staythefuckhome.com": {
+    "cookies": {},
+    "embedded": {
+      "www.who.int": [
+        {
+          "domain": "www.who.int.cdn.cloudflare.net",
+          "TTL": 900,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "en.wikipedia.org": [
+        {
+          "domain": "dyna.wikimedia.org",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.cdc.gov": [
+        {
+          "domain": "www.akam.cdc.gov",
+          "TTL": 297,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "github.com": [],
+      "academic.oup.com": [],
+      "www.ncbi.nlm.nih.gov": [
+        {
+          "domain": "www.wip.ncbi.nlm.nih.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "twitter.com": [],
+      "rocketloop.de": []
+    }
+  },
+  "cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm": {
+    "cookies": {
+      "cdc.gov": {
+        "cookie_data": [
+          {
+            "name": "akamai_visit_id",
+            "expires": 34567197
+          },
+          {
+            "name": "Akamai-Request-ID",
+            "expires": -1
+          },
+          {
+            "name": "AMCVS_66818A1A54FA2E890A4C98A6%40AdobeOrg",
+            "expires": -1
+          },
+          {
+            "name": "s_plt",
+            "expires": -1
+          },
+          {
+            "name": "s_pltp",
+            "expires": -1
+          },
+          {
+            "name": "s_ptc",
+            "expires": -1
+          },
+          {
+            "name": "AMCV_66818A1A54FA2E890A4C98A6%40AdobeOrg",
+            "expires": 34567200
+          },
+          {
+            "name": "gpv_pageurl",
+            "expires": 8999
+          },
+          {
+            "name": "gpv_pagename",
+            "expires": 8999
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "demdex.net": {
+        "cookie_data": [
+          {
+            "name": "demdex",
+            "expires": 15559200
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "www.cdc.gov": {
+        "cookie_data": [
+          {
+            "name": "TS0196e5be",
+            "expires": -1
+          }
+        ],
+        "chain": [
+          {
+            "domain": "www.akam.cdc.gov",
+            "TTL": 297,
+            "is_tracker": false,
+            "is_CDN": false,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "dpm.demdex.net": {
+        "cookie_data": [
+          {
+            "name": "dpm",
+            "expires": 15559200
+          }
+        ],
+        "chain": [
+          {
+            "domain": "gslb-2.demdex.net",
+            "TTL": 280,
+            "is_tracker": true,
+            "is_CDN": false,
+            "is_cloaking": false
+          },
+          {
+            "domain": "edge-irl1.demdex.net",
+            "TTL": 877,
+            "is_tracker": true,
+            "is_CDN": false,
+            "is_cloaking": false
+          },
+          {
+            "domain": "dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com",
+            "TTL": 877,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.snapchat.com": [
+        {
+          "domain": "web-gcp.api.snapchat.com",
+          "TTL": 296,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "web-gcp.api.sc-gw.com",
+          "TTL": 296,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.pinterest.com": [
+        {
+          "domain": "www-pinterest-com.gslb.pinterest.com",
+          "TTL": 1796,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.gslb.pinterest.net",
+          "TTL": 296,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.pinterest.com.edgekey.net",
+          "TTL": 56,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e6449.a.akamaiedge.net",
+          "TTL": 1168,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.cdc.gov": [
+        {
+          "domain": "www.akam.cdc.gov",
+          "TTL": 293,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.altmetric.com": [],
+      "jobs.cdc.gov": [
+        {
+          "domain": "jobs.akam.cdc.gov",
+          "TTL": 1796,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 271,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 236,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.youtube.com": [
+        {
+          "domain": "youtube-ui.l.google.com",
+          "TTL": 223,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.usa.gov": [
+        {
+          "domain": "www.usa.gov.external-domains-production.cloud.gov",
+          "TTL": 296,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "dx.doi.org": [],
+      "www.ncbi.nlm.nih.gov": [
+        {
+          "domain": "www.wip.ncbi.nlm.nih.gov",
+          "TTL": 1797,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "tools.cdc.gov": [
+        {
+          "domain": "tools.akam.cdc.gov",
+          "TTL": 1795,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1246,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "wwwn.cdc.gov": [],
+      "stacks.cdc.gov": [],
+      "www.whitehouse.gov": [
+        {
+          "domain": "wh46.go-vip.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1165,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1165,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "emergency.cdc.gov": [
+        {
+          "domain": "emergency.akam.cdc.gov",
+          "TTL": 1797,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "oig.hhs.gov": [],
+      "twitter.com": [],
+      "www.hhs.gov": [
+        {
+          "domain": "www.hhs.gov.edgekey.net",
+          "TTL": 1798,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8604.dscx.akamaiedge.net",
+          "TTL": 1798,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "nih.gov/news-events/news-releases/nih-clinical-trial-investigational-vaccine-covid-19-begins": {
+    "cookies": {
+      "nih.gov": {
+        "cookie_data": [
+          {
+            "name": "_ga_MP1ZEJXS9F",
+            "expires": 34567198
+          },
+          {
+            "name": "_ga",
+            "expires": 34567198
+          },
+          {
+            "name": "_gid",
+            "expires": 93597
+          },
+          {
+            "name": "_gat_UA-22075261-1",
+            "expires": 7257
+          },
+          {
+            "name": "_4c_",
+            "expires": 34567199
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "www.nih.gov": {
+        "cookie_data": [
+          {
+            "name": "_ga",
+            "expires": 34567198
+          },
+          {
+            "name": "_gid",
+            "expires": 93597
+          },
+          {
+            "name": "_gat_GSA_ENOR0",
+            "expires": 7257
+          },
+          {
+            "name": "_gat_GSA_ENOR1",
+            "expires": 7257
+          }
+        ],
+        "chain": [
+          {
+            "domain": "www.nih.gov.edgekey.net",
+            "TTL": 278,
+            "is_tracker": false,
+            "is_CDN": false,
+            "is_cloaking": false
+          },
+          {
+            "domain": "e87351.dscb.akamaiedge.net",
+            "TTL": 1777,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "youtube.com": {
+        "cookie_data": [
+          {
+            "name": "YSC",
+            "expires": -1
+          },
+          {
+            "name": "VISITOR_INFO1_LIVE",
+            "expires": 15559200
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "nexus.od.nih.gov": [],
+      "clinicaltrials.gov": [],
+      "newsinhealth.nih.gov": [
+        {
+          "domain": "newsinhealth.nih.gov.edgekey.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e87351.dscb.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "oppnet.nih.gov": [
+        {
+          "domain": "dualstack.mc-74754-759212728.us-east-1.elb.amazonaws.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "clinicalcenter.nih.gov": [
+        {
+          "domain": "clinicalcenter.nih.gov.edgekey.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e109181.dscb.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "nei.nih.gov": [],
+      "www.cdc.gov": [
+        {
+          "domain": "www.akam.cdc.gov",
+          "TTL": 274,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "service.govdelivery.com": [],
+      "www.niehs.nih.gov": [],
+      "www.ninds.nih.gov": [
+        {
+          "domain": "dualstack.nv2-production-lb-34800151.us-east-1.elb.amazonaws.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "hr.nih.gov": [],
+      "www.nhlbi.nih.gov": [
+        {
+          "domain": "internet-prod.nhlbi.nih.gov",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.fic.nih.gov": [
+        {
+          "domain": "fic.nih.gov",
+          "TTL": 1798,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.edi.nih.gov": [
+        {
+          "domain": "dualstack.mc-6306-vpc-vpc-541669326.us-east-1.elb.amazonaws.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "nihrecord.nih.gov": [
+        {
+          "domain": "nihrecord.nih.gov.edgekey.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e87351.dscb.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.cit.nih.gov": [
+        {
+          "domain": "www-cit-nih-gov-66558250.us-east-1.elb.amazonaws.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "commonfund.nih.gov": [],
+      "www.nia.nih.gov": [
+        {
+          "domain": "d17do31n0bvj2b.cloudfront.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "commons.era.nih.gov": [
+        {
+          "domain": "PUBLIC-DS-PROD-ERA-NIH-GOV-aa13e09ac5ed299a.elb.us-east-1.amazonaws.com",
+          "TTL": 298,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.niaid.nih.gov": [
+        {
+          "domain": "niaid-prod-varnish-1142511727.us-east-1.elb.amazonaws.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "ned.nih.gov": [
+        {
+          "domain": "ned.ha.nih.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "pubmed.ncbi.nlm.nih.gov": [],
+      "www.youtube.com": [
+        {
+          "domain": "youtube-ui.l.google.com",
+          "TTL": 189,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "medlineplus.gov": [],
+      "www.cancer.gov": [
+        {
+          "domain": "www.cancer.gov.edgekey.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e26621.dscb.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.usa.gov": [
+        {
+          "domain": "www.usa.gov.external-domains-production.cloud.gov",
+          "TTL": 257,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.genome.gov": [],
+      "www.nlm.nih.gov": [
+        {
+          "domain": "www.wip.nlm.nih.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "mainweb.awsprod.nlm.nih.gov",
+          "TTL": 296,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.niams.nih.gov": [
+        {
+          "domain": "dualstack.mc-31870-vpc-298061486.us-east-1.elb.amazonaws.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "stemcells.nih.gov": [],
+      "report.nih.gov": [
+        {
+          "domain": "RPT-DS-PROD-ERA-NIH-GOV-081b0fcadf5b3c92.elb.us-east-1.amazonaws.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.nichd.nih.gov": [],
+      "www.who.int": [
+        {
+          "domain": "www.who.int.cdn.cloudflare.net",
+          "TTL": 848,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1199,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.nimhd.nih.gov": [
+        {
+          "domain": "nihweb11vm02.cit.nih.gov",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "employees.nih.gov": [
+        {
+          "domain": "authproxy.ha.nih.gov",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "neuroscienceblueprint.nih.gov": [
+        {
+          "domain": "dualstack.nv2-production-lb-34800151.us-east-1.elb.amazonaws.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.nigms.nih.gov": [
+        {
+          "domain": "nigms.nih.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.niaaa.nih.gov": [
+        {
+          "domain": "niaaa.nih.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.ninr.nih.gov": [],
+      "intramural.nih.gov": [],
+      "www.niddk.nih.gov": [
+        {
+          "domain": "niddk.nih.gov.edgekey.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e11568.dscnus.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "grants.nih.gov": [],
+      "www.nibib.nih.gov": [],
+      "nccih.nih.gov": [],
+      "nida.nih.gov": [],
+      "www.flickr.com": [],
+      "www.nidcr.nih.gov": [
+        {
+          "domain": "dualstack.mc-31131-vpc-2018034088.us-east-1.elb.amazonaws.com",
+          "TTL": 1799,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.nih.gov": [
+        {
+          "domain": "www.nih.gov.edgekey.net",
+          "TTL": 238,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e87351.dscb.akamaiedge.net",
+          "TTL": 1737,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1110,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1110,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.nidcd.nih.gov": [
+        {
+          "domain": "dualstack.mc-79781-vpc-2137222316.us-east-1.elb.amazonaws.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "salud.nih.gov": [
+        {
+          "domain": "salud.nih.gov.edgekey.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e87351.dscb.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.healthcare.gov": [
+        {
+          "domain": "www.geodirector.hc.gov.akadns.net",
+          "TTL": 120,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "production.healthcare.gov.edgekey.net",
+          "TTL": 120,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8132.dscx.akamaiedge.net",
+          "TTL": 60,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.lrp.nih.gov": [],
+      "www.nimh.nih.gov": [],
+      "corona.kpwashingtonresearch.org": [],
+      "www.csr.nih.gov": [],
+      "oig.hhs.gov": [],
+      "twitter.com": [],
+      "ncats.nih.gov": [],
+      "www.hhs.gov": [
+        {
+          "domain": "www.hhs.gov.edgekey.net",
+          "TTL": 1739,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8604.dscx.akamaiedge.net",
+          "TTL": 1739,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "cdc.gov/mmwr/volumes/69/wr/mm6941e1.htm": {
+    "cookies": {
+      "www.cdc.gov": {
+        "cookie_data": [
+          {
+            "name": "TS0196e5be",
+            "expires": -1
+          }
+        ],
+        "chain": [
+          {
+            "domain": "www.akam.cdc.gov",
+            "TTL": 279,
+            "is_tracker": false,
+            "is_CDN": false,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "cdc.gov": {
+        "cookie_data": [
+          {
+            "name": "akamai_visit_id",
+            "expires": 34567179
+          },
+          {
+            "name": "Akamai-Request-ID",
+            "expires": -1
+          },
+          {
+            "name": "s_plt",
+            "expires": -1
+          },
+          {
+            "name": "s_pltp",
+            "expires": -1
+          },
+          {
+            "name": "AMCVS_66818A1A54FA2E890A4C98A6%40AdobeOrg",
+            "expires": -1
+          },
+          {
+            "name": "AMCV_66818A1A54FA2E890A4C98A6%40AdobeOrg",
+            "expires": 34567182
+          },
+          {
+            "name": "gpv_pageurl",
+            "expires": 8999
+          },
+          {
+            "name": "gpv_pagename",
+            "expires": 8999
+          },
+          {
+            "name": "s_ptc",
+            "expires": -1
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "demdex.net": {
+        "cookie_data": [
+          {
+            "name": "demdex",
+            "expires": 15559182
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "dpm.demdex.net": {
+        "cookie_data": [
+          {
+            "name": "dpm",
+            "expires": 15559182
+          }
+        ],
+        "chain": [
+          {
+            "domain": "gslb-2.demdex.net",
+            "TTL": 262,
+            "is_tracker": true,
+            "is_CDN": false,
+            "is_cloaking": false
+          },
+          {
+            "domain": "edge-irl1.demdex.net",
+            "TTL": 862,
+            "is_tracker": true,
+            "is_CDN": false,
+            "is_cloaking": false
+          },
+          {
+            "domain": "dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com",
+            "TTL": 862,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.snapchat.com": [
+        {
+          "domain": "web-gcp.api.snapchat.com",
+          "TTL": 280,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "web-gcp.api.sc-gw.com",
+          "TTL": 280,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.pinterest.com": [
+        {
+          "domain": "www-pinterest-com.gslb.pinterest.com",
+          "TTL": 1781,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.gslb.pinterest.net",
+          "TTL": 281,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.pinterest.com.edgekey.net",
+          "TTL": 41,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e6449.a.akamaiedge.net",
+          "TTL": 1153,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.cdc.gov": [
+        {
+          "domain": "www.akam.cdc.gov",
+          "TTL": 278,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.altmetric.com": [],
+      "jobs.cdc.gov": [
+        {
+          "domain": "jobs.akam.cdc.gov",
+          "TTL": 1781,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 256,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 221,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.youtube.com": [
+        {
+          "domain": "youtube-ui.l.google.com",
+          "TTL": 208,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.usa.gov": [
+        {
+          "domain": "www.usa.gov.external-domains-production.cloud.gov",
+          "TTL": 281,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "dx.doi.org": [],
+      "www.ncbi.nlm.nih.gov": [
+        {
+          "domain": "www.wip.ncbi.nlm.nih.gov",
+          "TTL": 1781,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www2.census.gov": [
+        {
+          "domain": "www2.census.gov.edgekey.net",
+          "TTL": 900,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8332.dscnus.akamaiedge.net",
+          "TTL": 900,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "tools.cdc.gov": [
+        {
+          "domain": "tools.akam.cdc.gov",
+          "TTL": 1779,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1230,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "wwwn.cdc.gov": [],
+      "stacks.cdc.gov": [],
+      "www.whitehouse.gov": [
+        {
+          "domain": "wh46.go-vip.net",
+          "TTL": 284,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1149,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1149,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "oig.hhs.gov": [],
+      "twitter.com": [],
+      "www.hhs.gov": [
+        {
+          "domain": "www.hhs.gov.edgekey.net",
+          "TTL": 1782,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8604.dscx.akamaiedge.net",
+          "TTL": 1781,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "jamanetwork.com/journals/jamainternalmedicine/fullarticle/2771265": {
+    "cookies": {
+      "r451.jamanetwork.com": {
+        "cookie_data": [
+          {
+            "name": "BCSessionID",
+            "expires": 34567166
+          },
+          {
+            "name": "AWSALB",
+            "expires": 611967
+          },
+          {
+            "name": "AWSALBCORS",
+            "expires": 611967
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "ama.blueconic.net": {
+        "cookie_data": [
+          {
+            "name": "BCSessionID",
+            "expires": 31543166
+          },
+          {
+            "name": "AWSALBCORS",
+            "expires": 611966
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "jamanetwork.com": {
+        "cookie_data": [
+          {
+            "name": "AMA_SessionId",
+            "expires": -1
+          },
+          {
+            "name": "JAMA_NetworkMachineID",
+            "expires": 34567153
+          },
+          {
+            "name": "gaCustomerId",
+            "expires": 34567165
+          },
+          {
+            "name": "gaInstitutionId",
+            "expires": 34567165
+          },
+          {
+            "name": "gaTAMId",
+            "expires": 34567165
+          },
+          {
+            "name": "BCSessionID",
+            "expires": -1
+          },
+          {
+            "name": "persistentSearchFilters",
+            "expires": -1
+          },
+          {
+            "name": "_ga_B4FWHWKMEB",
+            "expires": 34567166
+          },
+          {
+            "name": "__gads",
+            "expires": 33703166
+          },
+          {
+            "name": "__gpi",
+            "expires": 33703166
+          },
+          {
+            "name": "_ga",
+            "expires": 34567170
+          },
+          {
+            "name": "_gid",
+            "expires": 93569
+          },
+          {
+            "name": "_dc_gtm_UA-41194200-1",
+            "expires": 7229
+          },
+          {
+            "name": "_dc_gtm_UA-25810650-9",
+            "expires": 7229
+          },
+          {
+            "name": "_dc_gtm_UA-25810650-13",
+            "expires": 7229
+          },
+          {
+            "name": "_dc_gtm_UA-25810650-12",
+            "expires": 7229
+          },
+          {
+            "name": "_dc_gtm_UA-25810650-1",
+            "expires": 7229
+          },
+          {
+            "name": "_xdClientId",
+            "expires": -1
+          },
+          {
+            "name": "gaPrevTAMId",
+            "expires": -1
+          },
+          {
+            "name": "_gaCorpUserId",
+            "expires": 34567171
+          },
+          {
+            "name": "_gaCorp",
+            "expires": 34567171
+          },
+          {
+            "name": "_gaCorp_gid",
+            "expires": 93570
+          },
+          {
+            "name": "_dc_gtm_UA-77381884-5",
+            "expires": 7230
+          },
+          {
+            "name": "_fbp",
+            "expires": 7783184
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "doubleclick.net": {
+        "cookie_data": [
+          {
+            "name": "IDE",
+            "expires": 33703167
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "scholar.google.com": {
+        "cookie_data": [
+          {
+            "name": "GSP",
+            "expires": 34567171
+          }
+        ],
+        "chain": [
+          {
+            "domain": "scholar.l.google.com",
+            "TTL": 258,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": true
+      },
+      "ama-assn.org": {
+        "cookie_data": [
+          {
+            "name": "_gaUserId",
+            "expires": 34567171
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "twitter.com": {
+        "cookie_data": [
+          {
+            "name": "personalization_id",
+            "expires": 34567176
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": true
+      },
+      "t.co": {
+        "cookie_data": [
+          {
+            "name": "muc_ads",
+            "expires": 34567178
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "clinicaltrials.gov": [],
+      "www.pinterest.com": [
+        {
+          "domain": "www-pinterest-com.gslb.pinterest.com",
+          "TTL": 1752,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.gslb.pinterest.net",
+          "TTL": 252,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.pinterest.com.edgekey.net",
+          "TTL": 12,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e6449.a.akamaiedge.net",
+          "TTL": 1124,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.cdc.gov": [
+        {
+          "domain": "www.akam.cdc.gov",
+          "TTL": 249,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "careers.jamanetwork.com": [
+        {
+          "domain": "jama-edge.madgexhosting.net",
+          "TTL": 1785,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "cloud.google.com": [],
+      "www.altmetric.com": [],
+      "ebm.jamanetwork.com": [],
+      "www.peerreviewcongress.org": [
+        {
+          "domain": "peerreviewcongress.org",
+          "TTL": 1785,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 227,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 192,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "dx.doi.org": [],
+      "jamaevidence.mhmedical.com": [],
+      "scholar.google.com": [
+        {
+          "domain": "scholar.l.google.com",
+          "TTL": 255,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.ncbi.nlm.nih.gov": [
+        {
+          "domain": "www.wip.ncbi.nlm.nih.gov",
+          "TTL": 1753,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "edhub.ama-assn.org": [],
+      "ja.ma": [],
+      "journals.lww.com": [
+        {
+          "domain": "journals.lww.com.cdn.cloudflare.net",
+          "TTL": 1786,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "store.jamanetwork.com": [],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1202,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.ama-assn.org": [
+        {
+          "domain": "www.ama-assn.org.cdn.cloudflare.net",
+          "TTL": 1786,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "ctep.cancer.gov": [
+        {
+          "domain": "ctep.ha2.cancer.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.webofscience.com": [
+        {
+          "domain": "iwww.www.webofscience.com.akadns.net",
+          "TTL": 15,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.webofscience.com.edgekey.net",
+          "TTL": 285,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e90971.dsca.akamaiedge.net",
+          "TTL": 1785,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.trendmd.com": [],
+      "www.silverchair.com": [
+        {
+          "domain": "silverchair.com",
+          "TTL": 1785,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "article.cjcrcn.org": [],
+      "www.amamanualofstyle.com": [],
+      "cdn.jamanetwork.com": [
+        {
+          "domain": "d1thtaggq6a5mu.cloudfront.net",
+          "TTL": 1748,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "media.jamanetwork.com": [],
+      "doi.org": [],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1119,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1119,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "sites.jamanetwork.com": [],
+      "amastyleinsider.com": [],
+      "twitter.com": [],
+      "jamanetwork.com": []
+    }
+  },
+  "jamanetwork.com/journals/jamaophthalmology/fullarticle/2770872?fbclid=IwAR010y-jSBfAqEGOtF4Mw0so2pDAmZvB4bYSeoj8p8G-A2psC9hdq1QONmE": {
+    "cookies": {
+      "r451.jamanetwork.com": {
+        "cookie_data": [
+          {
+            "name": "BCSessionID",
+            "expires": 34567192
+          },
+          {
+            "name": "AWSALB",
+            "expires": 611992
+          },
+          {
+            "name": "AWSALBCORS",
+            "expires": 611992
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "ama.blueconic.net": {
+        "cookie_data": [
+          {
+            "name": "BCSessionID",
+            "expires": 31543192
+          },
+          {
+            "name": "AWSALBCORS",
+            "expires": 611992
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "jamanetwork.com": {
+        "cookie_data": [
+          {
+            "name": "AMA_SessionId",
+            "expires": -1
+          },
+          {
+            "name": "JAMA_NetworkMachineID",
+            "expires": 34567168
+          },
+          {
+            "name": "gaCustomerId",
+            "expires": 34567191
+          },
+          {
+            "name": "gaInstitutionId",
+            "expires": 34567191
+          },
+          {
+            "name": "gaTAMId",
+            "expires": 34567191
+          },
+          {
+            "name": "BCSessionID",
+            "expires": -1
+          },
+          {
+            "name": "_gid",
+            "expires": 93596
+          },
+          {
+            "name": "_dc_gtm_UA-41194200-1",
+            "expires": 7251
+          },
+          {
+            "name": "_dc_gtm_UA-25810650-9",
+            "expires": 7251
+          },
+          {
+            "name": "_dc_gtm_UA-25810650-13",
+            "expires": 7251
+          },
+          {
+            "name": "_fbc",
+            "expires": 7783194
+          },
+          {
+            "name": "_fbp",
+            "expires": 7783194
+          },
+          {
+            "name": "__gads",
+            "expires": 33703196
+          },
+          {
+            "name": "__gpi",
+            "expires": 33703196
+          },
+          {
+            "name": "persistentSearchFilters",
+            "expires": -1
+          },
+          {
+            "name": "_dc_gtm_UA-25810650-12",
+            "expires": 7256
+          },
+          {
+            "name": "_dc_gtm_UA-25810650-1",
+            "expires": 7256
+          },
+          {
+            "name": "_ga_B4FWHWKMEB",
+            "expires": 34567197
+          },
+          {
+            "name": "_ga",
+            "expires": 34567197
+          },
+          {
+            "name": "_xdClientId",
+            "expires": -1
+          },
+          {
+            "name": "gaPrevTAMId",
+            "expires": -1
+          },
+          {
+            "name": "_gaCorpUserId",
+            "expires": 34567198
+          },
+          {
+            "name": "_gaCorp",
+            "expires": 34567198
+          },
+          {
+            "name": "_gaCorp_gid",
+            "expires": 93598
+          },
+          {
+            "name": "_dc_gtm_UA-77381884-5",
+            "expires": 7258
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "scholar.google.com": {
+        "cookie_data": [
+          {
+            "name": "GSP",
+            "expires": 34567190
+          }
+        ],
+        "chain": [
+          {
+            "domain": "scholar.l.google.com",
+            "TTL": 273,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": true
+      },
+      "t.co": {
+        "cookie_data": [
+          {
+            "name": "muc_ads",
+            "expires": 34567194
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "twitter.com": {
+        "cookie_data": [
+          {
+            "name": "personalization_id",
+            "expires": 34567195
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": true
+      },
+      "doubleclick.net": {
+        "cookie_data": [
+          {
+            "name": "IDE",
+            "expires": 33703197
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "ama-assn.org": {
+        "cookie_data": [
+          {
+            "name": "_gaUserId",
+            "expires": 34567198
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.pinterest.com": [
+        {
+          "domain": "www-pinterest-com.gslb.pinterest.com",
+          "TTL": 1767,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.gslb.pinterest.net",
+          "TTL": 267,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.pinterest.com.edgekey.net",
+          "TTL": 27,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e6449.a.akamaiedge.net",
+          "TTL": 1139,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "careers.jamanetwork.com": [
+        {
+          "domain": "jama-edge.madgexhosting.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.altmetric.com": [],
+      "ebm.jamanetwork.com": [],
+      "www.nature.com": [
+        {
+          "domain": "geo-gcp.cdn.springernature.io",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "springer2.map.fastly.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.peerreviewcongress.org": [
+        {
+          "domain": "peerreviewcongress.org",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 242,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 207,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "dx.doi.org": [],
+      "jamaevidence.mhmedical.com": [],
+      "www.sciencedirect.com": [],
+      "scholar.google.com": [
+        {
+          "domain": "scholar.l.google.com",
+          "TTL": 270,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.ncbi.nlm.nih.gov": [
+        {
+          "domain": "www.wip.ncbi.nlm.nih.gov",
+          "TTL": 1768,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "edhub.ama-assn.org": [],
+      "ja.ma": [],
+      "journals.lww.com": [
+        {
+          "domain": "journals.lww.com.cdn.cloudflare.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "store.jamanetwork.com": [],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1216,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.who.int": [
+        {
+          "domain": "www.who.int.cdn.cloudflare.net",
+          "TTL": 865,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.ama-assn.org": [
+        {
+          "domain": "www.ama-assn.org.cdn.cloudflare.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "s100.copyright.com": [
+        {
+          "domain": "rlnk-pprd-ext2-11053649.us-east-1.elb.amazonaws.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.webofscience.com": [
+        {
+          "domain": "iwww.www.webofscience.com.akadns.net",
+          "TTL": 30,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.webofscience.com.edgekey.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e90971.dsca.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.trendmd.com": [],
+      "www.silverchair.com": [
+        {
+          "domain": "silverchair.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.gov.cn": [
+        {
+          "domain": "www.gov.cn.bsgslb.cn",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "zgovweb.v.bsgslb.cn",
+          "TTL": 1199,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.amamanualofstyle.com": [],
+      "cdn.jamanetwork.com": [
+        {
+          "domain": "d1thtaggq6a5mu.cloudfront.net",
+          "TTL": 1755,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "media.jamanetwork.com": [],
+      "doi.org": [],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1126,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1126,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "sites.jamanetwork.com": [],
+      "amastyleinsider.com": [],
+      "www.equator-network.org": [],
+      "twitter.com": [],
+      "jamanetwork.com": []
+    }
+  },
+  "613covid.ca/wastewater": {
+    "cookies": {
+      "613covid.ca": {
+        "cookie_data": [
+          {
+            "name": "_ga_02KBGY9CZP",
+            "expires": 34567190
+          },
+          {
+            "name": "_ga",
+            "expires": 34567194
+          },
+          {
+            "name": "_gid",
+            "expires": 93593
+          },
+          {
+            "name": "_gat_gtag_UA_162991337_1",
+            "expires": 7253
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "plotly.com": [],
+      "www.ottawapublichealth.ca": [
+        {
+          "domain": "231134-www-ottawapublichealth-ca.esolg.com",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.canada.ca": [
+        {
+          "domain": "www.canada.ca.edgekey.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e4073.dscb.akamaiedge.net",
+          "TTL": 299,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "613covid.ca": [],
+      "www.ontario.ca": [
+        {
+          "domain": "www.ontariogovernment.ca",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "d36pom45p27o8j.cloudfront.net",
+          "TTL": 5,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "bnonews.com/index.php/2020/08/covid-19-reinfection-tracker": {
+    "cookies": {
+      "bnonews.com": {
+        "cookie_data": [
+          {
+            "name": "_ga_MWJSREC2B9",
+            "expires": 34567186
+          },
+          {
+            "name": "_ga",
+            "expires": 34567186
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "oglobo.globo.com": [],
+      "www.saude.am.gov.br": [],
+      "bnonews.com": [],
+      "www.medrxiv.org": [],
+      "www.milenio.com": [
+        {
+          "domain": "www.milenio.com.edgekey.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e122237.dscb.akamaiedge.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "covid19.colorado.gov": [],
+      "www.saopaulo.sp.gov.br": [],
+      "www.gov.uk": [
+        {
+          "domain": "www-cdn.production.govuk.service.gov.uk",
+          "TTL": 900,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www-gov-uk.map.fastly.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.journalofinfection.com": [
+        {
+          "domain": "secure.jbs.elsevierhealth.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.businessinsider.com": [
+        {
+          "domain": "f.shared.global.fastly.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.saude.ba.gov.br": [],
+      "www.saude.df.gov.br": [],
+      "www.thelancet.com": [
+        {
+          "domain": "secure.jbs.elsevierhealth.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "midiamax.uol.com.br": [
+        {
+          "domain": "midiamax.uol.com.br.cdn.gocache.net",
+          "TTL": 60,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "virological.org": [],
+      "osf.io": [],
+      "elpais.com": [],
+      "wwwnc.cdc.gov": [
+        {
+          "domain": "wwwnc.akam.cdc.gov",
+          "TTL": 1782,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.unr.edu": [
+        {
+          "domain": "cmsdss-tip.unr.edu",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.cambridge.org": [],
+      "www.scielo.br": [],
+      "www.mdpi.com": [],
+      "www.sd.net": [
+        {
+          "domain": "sd.bentosites.pbs.org",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "d3vnpf58n21vwd.cloudfront.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "nos.nl": [],
+      "www.adndigital.com.py": [],
+      "www.youtube.com": [
+        {
+          "domain": "youtube-ui.l.google.com",
+          "TTL": 204,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.gov.br": [],
+      "www.ip.gov.py": [],
+      "www.vrt.be": [
+        {
+          "domain": "d3jkmvw9bskevs.cloudfront.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.sciencedirect.com": [],
+      "www.saude.sc.gov.br": [],
+      "globoplay.globo.com": [],
+      "www.niid.go.jp": [],
+      "www.ynetnews.com": [
+        {
+          "domain": "www.ynetnews.com.edgekey.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e12476.b.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "paraiba.pb.gov.br": [],
+      "bnonews.es": [],
+      "assets.researchsquare.com": [
+        {
+          "domain": "d38lzya6cuphhs.cloudfront.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1221,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.minsa.gob.pa": [
+        {
+          "domain": "minsa.gob.pa",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.emaisgoias.com.br": [],
+      "www.nejm.org": [
+        {
+          "domain": "www.nejm.org.cdn.cloudflare.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.eluniverso.com": [
+        {
+          "domain": "eluniverso-el-universo-prod.arc-dns.net",
+          "TTL": 30,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "132580.edgesuite.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "a1942.dscr.akamai.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.dive.sc.gov.br": [],
+      "www.mspbs.gov.py": [],
+      "assets.publishing.service.gov.uk": [
+        {
+          "domain": "www-gov-uk.map.fastly.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "timesofindia.indiatimes.com": [
+        {
+          "domain": "timesofindia.indiatimes.com.edgekey.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e12582.dsce12.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.twitter.com": [
+        {
+          "domain": "twitter.com",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "ufop.br": [],
+      "www.cnnbrasil.com.br": [
+        {
+          "domain": "cnnbrasil.go-vip.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.standaard.be": [],
+      "poseidon01.ssrn.com": [],
+      "www.volkskrant.nl": [
+        {
+          "domain": "dpp-volkskrant-wc.edgekey.net",
+          "TTL": 900,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e15410.dscb.akamaiedge.net",
+          "TTL": 360,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.bnonews.es": [],
+      "www.yna.co.kr": [],
+      "www.saude.pr.gov.br": [],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1133,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1133,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "diariodegoias.com.br": [],
+      "www.bbc.com": [
+        {
+          "domain": "www.bbc.com.pri.bbc.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "bbc.map.fastly.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.preprints.org": [],
+      "academic.oup.com": [],
+      "onlinelibrary.wiley.com": [],
+      "www.aparecida.go.gov.br": [
+        {
+          "domain": "aparecida.go.gov.br",
+          "TTL": 1799,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.frontiersin.org": [
+        {
+          "domain": "haproxy-journal-prod-d8f7ewe9abhycvdd.z01.azurefd.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "star-azurefd-prod.trafficmanager.net",
+          "TTL": 30,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "dual.part-0039.t-0009.t-msedge.net",
+          "TTL": 9,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "part-0039.t-0009.t-msedge.net",
+          "TTL": 9,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "twitter.com": [],
+      "send": []
+    }
+  },
+  "jamanetwork.com/journals/jamanetworkopen/fullarticle/2774102?fbclid=IwAR2UGqG_AKCnDDmCMXRMVjwE7F4--QAlGk6DKr7-f9-vBIFV4MDuaACfzCw": {
+    "cookies": {
+      "r451.jamanetwork.com": {
+        "cookie_data": [
+          {
+            "name": "BCSessionID",
+            "expires": 34567138
+          },
+          {
+            "name": "AWSALB",
+            "expires": 611998
+          },
+          {
+            "name": "AWSALBCORS",
+            "expires": 611998
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "ama.blueconic.net": {
+        "cookie_data": [
+          {
+            "name": "BCSessionID",
+            "expires": 31543138
+          },
+          {
+            "name": "AWSALBCORS",
+            "expires": 611938
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "jamanetwork.com": {
+        "cookie_data": [
+          {
+            "name": "AMA_SessionId",
+            "expires": -1
+          },
+          {
+            "name": "JAMA_NetworkMachineID",
+            "expires": 34567129
+          },
+          {
+            "name": "__gads",
+            "expires": 33703132
+          },
+          {
+            "name": "__gpi",
+            "expires": 33703132
+          },
+          {
+            "name": "gaCustomerId",
+            "expires": 34567134
+          },
+          {
+            "name": "gaInstitutionId",
+            "expires": 34567134
+          },
+          {
+            "name": "gaTAMId",
+            "expires": 34567134
+          },
+          {
+            "name": "_fbc",
+            "expires": 7783135
+          },
+          {
+            "name": "_fbp",
+            "expires": 7783135
+          },
+          {
+            "name": "BCSessionID",
+            "expires": -1
+          },
+          {
+            "name": "_gid",
+            "expires": 93600
+          },
+          {
+            "name": "persistentSearchFilters",
+            "expires": -1
+          },
+          {
+            "name": "_dc_gtm_UA-25810650-12",
+            "expires": 7259
+          },
+          {
+            "name": "_dc_gtm_UA-25810650-1",
+            "expires": 7259
+          },
+          {
+            "name": "_xdClientId",
+            "expires": -1
+          },
+          {
+            "name": "gaPrevTAMId",
+            "expires": -1
+          },
+          {
+            "name": "_ga",
+            "expires": 34567200
+          },
+          {
+            "name": "_ga_B4FWHWKMEB",
+            "expires": 34567200
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "doubleclick.net": {
+        "cookie_data": [
+          {
+            "name": "IDE",
+            "expires": 33703133
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "scholar.google.com": {
+        "cookie_data": [
+          {
+            "name": "GSP",
+            "expires": 34567137
+          }
+        ],
+        "chain": [
+          {
+            "domain": "scholar.l.google.com",
+            "TTL": 233,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": true
+      },
+      "twitter.com": {
+        "cookie_data": [
+          {
+            "name": "personalization_id",
+            "expires": 34567155
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": true
+      },
+      "t.co": {
+        "cookie_data": [
+          {
+            "name": "muc_ads",
+            "expires": 34567155
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "ama-assn.org": {
+        "cookie_data": [
+          {
+            "name": "_gaUserId",
+            "expires": 34567200
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.pinterest.com": [
+        {
+          "domain": "www-pinterest-com.gslb.pinterest.com",
+          "TTL": 1720,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.gslb.pinterest.net",
+          "TTL": 220,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.pinterest.com.edgekey.net",
+          "TTL": 60,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e6449.a.akamaiedge.net",
+          "TTL": 1092,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.cdc.gov": [
+        {
+          "domain": "www.akam.cdc.gov",
+          "TTL": 217,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "careers.jamanetwork.com": [
+        {
+          "domain": "jama-edge.madgexhosting.net",
+          "TTL": 1753,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.altmetric.com": [],
+      "papers.ssrn.com": [
+        {
+          "domain": "papers.ssrn.com.cdn.cloudflare.net",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "ebm.jamanetwork.com": [],
+      "www.nature.com": [
+        {
+          "domain": "geo-gcp.cdn.springernature.io",
+          "TTL": 1752,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "springer2.map.fastly.net",
+          "TTL": 1752,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.nber.org": [
+        {
+          "domain": "prod.nber.org",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.peerreviewcongress.org": [
+        {
+          "domain": "peerreviewcongress.org",
+          "TTL": 1752,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 194,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 159,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "pubmed.ncbi.nlm.nih.gov": [],
+      "dx.doi.org": [],
+      "jamaevidence.mhmedical.com": [],
+      "www.ohri.ca": [],
+      "scholar.google.com": [
+        {
+          "domain": "scholar.l.google.com",
+          "TTL": 222,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.ncbi.nlm.nih.gov": [
+        {
+          "domain": "www.wip.ncbi.nlm.nih.gov",
+          "TTL": 1720,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "edhub.ama-assn.org": [],
+      "ja.ma": [],
+      "docisolation.prod.fire.glass": [],
+      "journals.lww.com": [
+        {
+          "domain": "journals.lww.com.cdn.cloudflare.net",
+          "TTL": 1753,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "store.jamanetwork.com": [],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1169,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.who.int": [
+        {
+          "domain": "www.who.int.cdn.cloudflare.net",
+          "TTL": 818,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.ama-assn.org": [
+        {
+          "domain": "www.ama-assn.org.cdn.cloudflare.net",
+          "TTL": 1753,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.mhlw.go.jp": [
+        {
+          "domain": "www.mhlw.go.jp.edgekey.net",
+          "TTL": 299,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e12692.dscksd.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.gbif.org": [
+        {
+          "domain": "prodportalcache-vh.gbif.org",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.webofscience.com": [
+        {
+          "domain": "iwww.www.webofscience.com.akadns.net",
+          "TTL": 30,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.webofscience.com.edgekey.net",
+          "TTL": 252,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e90971.dsca.akamaiedge.net",
+          "TTL": 1752,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.trendmd.com": [],
+      "www.silverchair.com": [
+        {
+          "domain": "silverchair.com",
+          "TTL": 1752,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.amamanualofstyle.com": [],
+      "cdn.jamanetwork.com": [
+        {
+          "domain": "d1thtaggq6a5mu.cloudfront.net",
+          "TTL": 1716,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "media.jamanetwork.com": [],
+      "doi.org": [],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1087,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1087,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "sites.jamanetwork.com": [],
+      "amastyleinsider.com": [],
+      "onlinelibrary.wiley.com": [],
+      "www.equator-network.org": [],
+      "www.osirjournal.net": [],
+      "twitter.com": [],
+      "jamanetwork.com": []
+    }
+  },
+  "cdc.gov/mmwr/volumes/69/wr/mm6945e1.htm": {
+    "cookies": {
+      "www.cdc.gov": {
+        "cookie_data": [
+          {
+            "name": "TS0196e5be",
+            "expires": -1
+          }
+        ],
+        "chain": [
+          {
+            "domain": "www.akam.cdc.gov",
+            "TTL": 263,
+            "is_tracker": false,
+            "is_CDN": false,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "cdc.gov": {
+        "cookie_data": [
+          {
+            "name": "akamai_visit_id",
+            "expires": 34567164
+          },
+          {
+            "name": "Akamai-Request-ID",
+            "expires": -1
+          },
+          {
+            "name": "AMCVS_66818A1A54FA2E890A4C98A6%40AdobeOrg",
+            "expires": -1
+          },
+          {
+            "name": "s_plt",
+            "expires": -1
+          },
+          {
+            "name": "s_pltp",
+            "expires": -1
+          },
+          {
+            "name": "s_ptc",
+            "expires": -1
+          },
+          {
+            "name": "AMCV_66818A1A54FA2E890A4C98A6%40AdobeOrg",
+            "expires": 34567200
+          },
+          {
+            "name": "gpv_pageurl",
+            "expires": 9000
+          },
+          {
+            "name": "gpv_pagename",
+            "expires": 9000
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "demdex.net": {
+        "cookie_data": [
+          {
+            "name": "demdex",
+            "expires": 15559200
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "dpm.demdex.net": {
+        "cookie_data": [
+          {
+            "name": "dpm",
+            "expires": 15559200
+          }
+        ],
+        "chain": [
+          {
+            "domain": "gslb-2.demdex.net",
+            "TTL": 246,
+            "is_tracker": true,
+            "is_CDN": false,
+            "is_cloaking": false
+          },
+          {
+            "domain": "edge-irl1.demdex.net",
+            "TTL": 846,
+            "is_tracker": true,
+            "is_CDN": false,
+            "is_cloaking": false
+          },
+          {
+            "domain": "dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com",
+            "TTL": 846,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.snapchat.com": [
+        {
+          "domain": "web-gcp.api.snapchat.com",
+          "TTL": 264,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "web-gcp.api.sc-gw.com",
+          "TTL": 264,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.pinterest.com": [
+        {
+          "domain": "www-pinterest-com.gslb.pinterest.com",
+          "TTL": 1765,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.gslb.pinterest.net",
+          "TTL": 265,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.pinterest.com.edgekey.net",
+          "TTL": 25,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e6449.a.akamaiedge.net",
+          "TTL": 1137,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.cdc.gov": [
+        {
+          "domain": "www.akam.cdc.gov",
+          "TTL": 262,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.altmetric.com": [],
+      "jobs.cdc.gov": [
+        {
+          "domain": "jobs.akam.cdc.gov",
+          "TTL": 1765,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 240,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 205,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.youtube.com": [
+        {
+          "domain": "youtube-ui.l.google.com",
+          "TTL": 192,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.usa.gov": [
+        {
+          "domain": "www.usa.gov.external-domains-production.cloud.gov",
+          "TTL": 265,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "dx.doi.org": [],
+      "www.ncbi.nlm.nih.gov": [
+        {
+          "domain": "www.wip.ncbi.nlm.nih.gov",
+          "TTL": 1766,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "tools.cdc.gov": [
+        {
+          "domain": "tools.akam.cdc.gov",
+          "TTL": 1764,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1215,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.census.gov": [
+        {
+          "domain": "www.census.gov.edgekey.net",
+          "TTL": 900,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8332.dscna.akamaiedge.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "wwwn.cdc.gov": [],
+      "www.imperial.ac.uk": [
+        {
+          "domain": "wrpwww.cc.gslb21.ic.ac.uk",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "stacks.cdc.gov": [],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1134,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1134,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "governor.delaware.gov": [
+        {
+          "domain": "geowp.delaware.gov",
+          "TTL": 898,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "geowp.gslb.delaware.gov",
+          "TTL": 844,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "oig.hhs.gov": [],
+      "twitter.com": [],
+      "www.hhs.gov": [
+        {
+          "domain": "www.hhs.gov.edgekey.net",
+          "TTL": 1766,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8604.dscx.akamaiedge.net",
+          "TTL": 1766,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "news.harvard.edu/gazette/story/2020/10/covid-survivors-may-have-four-months-of-protection": {
+    "cookies": {
+      "harvard.edu": {
+        "cookie_data": [
+          {
+            "name": "_ga_2MCEMGXSJF",
+            "expires": 34567193
+          },
+          {
+            "name": "_ga",
+            "expires": 34567193
+          },
+          {
+            "name": "_gid",
+            "expires": 93593
+          },
+          {
+            "name": "_gat_UA-2923555-11",
+            "expires": 7253
+          },
+          {
+            "name": "_gat_UA-2923555-59",
+            "expires": 7253
+          },
+          {
+            "name": "_parsely_session",
+            "expires": 8996
+          },
+          {
+            "name": "_parsely_visitor",
+            "expires": 34171196
+          },
+          {
+            "name": "_fbp",
+            "expires": 7783198
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.gocrimson.com": [
+        {
+          "domain": "gocrimson.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 268,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 233,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "news.harvard.edu": [
+        {
+          "domain": "pantheon-systems.map.fastly.net",
+          "TTL": 1790,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.harvard.edu": [
+        {
+          "domain": "pantheon-systems.map.fastly.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "instagram.com": [],
+      "facebook.com": [],
+      "accessibility.harvard.edu": [
+        {
+          "domain": "edge.hwpi.harvard.edu",
+          "TTL": 180,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "huit.edgesuite.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "a1351.b.akamai.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "urldefense.proofpoint.com": [
+        {
+          "domain": "urldefense.com",
+          "TTL": 1799,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "twitter.com": [],
+      "trademark.harvard.edu": [
+        {
+          "domain": "edge.hwpi.harvard.edu",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "huit.edgesuite.net",
+          "TTL": 1799,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "a1351.b.akamai.net",
+          "TTL": 1799,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "cdc.gov/mmwr/volumes/69/wr/mm6943e3.htm?s_cid=mm6943e3_w": {
+    "cookies": {
+      "cdc.gov": {
+        "cookie_data": [
+          {
+            "name": "akamai_visit_id",
+            "expires": 34567186
+          },
+          {
+            "name": "Akamai-Request-ID",
+            "expires": -1
+          },
+          {
+            "name": "AMCV_66818A1A54FA2E890A4C98A6%40AdobeOrg",
+            "expires": 34567187
+          },
+          {
+            "name": "s_plt",
+            "expires": -1
+          },
+          {
+            "name": "s_pltp",
+            "expires": -1
+          },
+          {
+            "name": "s_ptc",
+            "expires": -1
+          },
+          {
+            "name": "gpv_pageurl",
+            "expires": 9000
+          },
+          {
+            "name": "gpv_pagename",
+            "expires": 9000
+          },
+          {
+            "name": "s_campaign",
+            "expires": 34567200
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "www.cdc.gov": {
+        "cookie_data": [
+          {
+            "name": "TS0196e5be",
+            "expires": -1
+          }
+        ],
+        "chain": [
+          {
+            "domain": "www.akam.cdc.gov",
+            "TTL": 286,
+            "is_tracker": false,
+            "is_CDN": false,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.snapchat.com": [
+        {
+          "domain": "web-gcp.api.snapchat.com",
+          "TTL": 287,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "web-gcp.api.sc-gw.com",
+          "TTL": 287,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.pinterest.com": [
+        {
+          "domain": "www-pinterest-com.gslb.pinterest.com",
+          "TTL": 1788,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.gslb.pinterest.net",
+          "TTL": 288,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.pinterest.com.edgekey.net",
+          "TTL": 48,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e6449.a.akamaiedge.net",
+          "TTL": 1160,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.cdc.gov": [
+        {
+          "domain": "www.akam.cdc.gov",
+          "TTL": 285,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "gis.cdc.gov": [
+        {
+          "domain": "gis.akam.cdc.gov",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.altmetric.com": [],
+      "jobs.cdc.gov": [
+        {
+          "domain": "jobs.akam.cdc.gov",
+          "TTL": 1787,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 262,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 227,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.youtube.com": [
+        {
+          "domain": "youtube-ui.l.google.com",
+          "TTL": 214,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.usa.gov": [
+        {
+          "domain": "www.usa.gov.external-domains-production.cloud.gov",
+          "TTL": 287,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "dx.doi.org": [],
+      "www.ncbi.nlm.nih.gov": [
+        {
+          "domain": "www.wip.ncbi.nlm.nih.gov",
+          "TTL": 1788,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "tools.cdc.gov": [
+        {
+          "domain": "tools.akam.cdc.gov",
+          "TTL": 1786,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1237,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "wwwn.cdc.gov": [],
+      "stacks.cdc.gov": [],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1156,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1156,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.bls.gov": [
+        {
+          "domain": "www.bls.gov.edgekey.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e6329.dsca.akamaiedge.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "oig.hhs.gov": [],
+      "twitter.com": [],
+      "www.hhs.gov": [
+        {
+          "domain": "www.hhs.gov.edgekey.net",
+          "TTL": 1789,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8604.dscx.akamaiedge.net",
+          "TTL": 1789,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "bmj.com/content/371/bmj.m4851": {
+    "cookies": {
+      "www.bmj.com": {
+        "cookie_data": [
+          {
+            "name": "country_version",
+            "expires": 31543165
+          },
+          {
+            "name": "has_js",
+            "expires": -1
+          }
+        ],
+        "chain": [
+          {
+            "domain": "www.bmj.com.cdn.cloudflare.net",
+            "TTL": 265,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "bmj.com": {
+        "cookie_data": [
+          {
+            "name": "SSESS23287caafa424b164c26cd52820d18ad",
+            "expires": 14365
+          },
+          {
+            "name": "loggedIn",
+            "expires": 179977
+          },
+          {
+            "name": "RefTrack",
+            "expires": 179977
+          },
+          {
+            "name": "RefTrackGroup",
+            "expires": 179977
+          },
+          {
+            "name": "_ga_LHT0ZJKRSY",
+            "expires": 34567178
+          },
+          {
+            "name": "FPLC",
+            "expires": 79178
+          },
+          {
+            "name": "FPID",
+            "expires": 34567179
+          },
+          {
+            "name": "_ga",
+            "expires": 34567179
+          },
+          {
+            "name": "_gid",
+            "expires": 93579
+          },
+          {
+            "name": "_gat_UA-432960-5",
+            "expires": 7239
+          },
+          {
+            "name": "OptanonConsent",
+            "expires": 31543196
+          },
+          {
+            "name": "accessMethod",
+            "expires": 34567200
+          },
+          {
+            "name": "articleCount",
+            "expires": 34567200
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "scholar.google.com": {
+        "cookie_data": [
+          {
+            "name": "GSP",
+            "expires": 34567197
+          }
+        ],
+        "chain": [
+          {
+            "domain": "scholar.l.google.com",
+            "TTL": 271,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": true
+      },
+      "doubleclick.net": {
+        "cookie_data": [
+          {
+            "name": "test_cookie",
+            "expires": 8100
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.bmj.com": [
+        {
+          "domain": "www.bmj.com.cdn.cloudflare.net",
+          "TTL": 263,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "thebmjawards.bmj.com": [
+        {
+          "domain": "bmj-b.pagelyhosting.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.medrxiv.org": [],
+      "group.bmj.com": [
+        {
+          "domain": "d2x7hoca57iv1w.cloudfront.net",
+          "TTL": 60,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "youtube.com": [],
+      "www.cookiepro.com": [],
+      "www.endnote.com": [
+        {
+          "domain": "live-endnote.pantheonsite.io",
+          "TTL": 30,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "fe1.edge.pantheon.io",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "mc.manuscriptcentral.com": [
+        {
+          "domain": "mc.manuscriptcentral.com.edgekey.net",
+          "TTL": 30,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e11410.a.akamaiedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.zotero.org": [],
+      "www.altmetric.com": [],
+      "www.nature.com": [
+        {
+          "domain": "geo-gcp.cdn.springernature.io",
+          "TTL": 1799,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "springer2.map.fastly.net",
+          "TTL": 1799,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.refworks.com": [
+        {
+          "domain": "refworks.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "hosted.bmj.com": [
+        {
+          "domain": "lb2.redsnapper.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "bmjverification.bma.org.uk": [
+        {
+          "domain": "bmjverification.azurewebsites.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "waws-prod-ln1-001.vip.azurewebsites.windows.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "waws-prod-ln1-001.cloudapp.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "myaccount.bmj.com": [
+        {
+          "domain": "myaccount.bmj.com.gccdn.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "jobs.bmj.com": [
+        {
+          "domain": "live.web.static.external.tf.aws.bmjgroup.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "static-web-live-external-1833412634.eu-west-1.elb.amazonaws.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "feeds.bmj.com": [
+        {
+          "domain": "1i9iefj.feedproxy.ghs.google.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "home.highwire.org": [
+        {
+          "domain": "bart.highwire.org",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "bestpractice.bmj.com": [
+        {
+          "domain": "bestpractice.bmj.com.gccdn.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.ncbi.nlm.nih.gov": [
+        {
+          "domain": "www.wip.ncbi.nlm.nih.gov",
+          "TTL": 1766,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "bmj.com": [],
+      "journals.lww.com": [
+        {
+          "domain": "journals.lww.com.cdn.cloudflare.net",
+          "TTL": 1799,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "learning.bmj.com": [
+        {
+          "domain": "learning.bmj.com.gccdn.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1215,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "s100.copyright.com": [
+        {
+          "domain": "rlnk-pprd-ext2-11053649.us-east-1.elb.amazonaws.com",
+          "TTL": 299,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "journals.bmj.com": [
+        {
+          "domain": "journals.bmj.com.cdn.cloudflare.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.legislation.gov.uk": [],
+      "www.refman.com": [
+        {
+          "domain": "refman.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "tcf.cookiepedia.co.uk": [],
+      "wwwn.cdc.gov": [],
+      "www.imperial.ac.uk": [
+        {
+          "domain": "wrpwww.cc.gslb21.ic.ac.uk",
+          "TTL": 299,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "assets.publishing.service.gov.uk": [
+        {
+          "domain": "www-gov-uk.map.fastly.net",
+          "TTL": 298,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "blogs.bmj.com": [
+        {
+          "domain": "bmj-b.pagelyhosting.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.trendmd.com": [],
+      "recruiter.bmj.com": [
+        {
+          "domain": "bmjjobs-edge.madgexhosting.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.ons.gov.uk": [
+        {
+          "domain": "www.ons.gov.uk.cdn.cloudflare.net",
+          "TTL": 900,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "doi.org": [],
+      "masterclasses.bmj.com": [
+        {
+          "domain": "bmj-b.pagelyhosting.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.procite.com": [
+        {
+          "domain": "procite.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "openathens-sp.highwire.org": [],
+      "twitter.com": [],
+      "portfolio.bmj.com": [
+        {
+          "domain": "live.portfolio.tf.aws.bmjgroup.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "portfolio-web-live-1667548029.eu-west-1.elb.amazonaws.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "bmj.com/content/370/bmj.m3563": {
+    "cookies": {
+      "www.bmj.com": {
+        "cookie_data": [
+          {
+            "name": "country_version",
+            "expires": 31543159
+          },
+          {
+            "name": "has_js",
+            "expires": -1
+          }
+        ],
+        "chain": [
+          {
+            "domain": "www.bmj.com.cdn.cloudflare.net",
+            "TTL": 258,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "bmj.com": {
+        "cookie_data": [
+          {
+            "name": "SSESS23287caafa424b164c26cd52820d18ad",
+            "expires": 14359
+          },
+          {
+            "name": "loggedIn",
+            "expires": 179996
+          },
+          {
+            "name": "RefTrack",
+            "expires": 179996
+          },
+          {
+            "name": "RefTrackGroup",
+            "expires": 179996
+          },
+          {
+            "name": "_ga_LHT0ZJKRSY",
+            "expires": 34567196
+          },
+          {
+            "name": "FPLC",
+            "expires": 79196
+          },
+          {
+            "name": "FPID",
+            "expires": 34567198
+          },
+          {
+            "name": "_ga",
+            "expires": 34567197
+          },
+          {
+            "name": "_gid",
+            "expires": 93597
+          },
+          {
+            "name": "_gat_UA-432960-5",
+            "expires": 7257
+          },
+          {
+            "name": "OptanonConsent",
+            "expires": 31543198
+          },
+          {
+            "name": "accessMethod",
+            "expires": 34567200
+          },
+          {
+            "name": "articleCount",
+            "expires": 34567200
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "scholar.google.com": {
+        "cookie_data": [
+          {
+            "name": "GSP",
+            "expires": 34567199
+          }
+        ],
+        "chain": [
+          {
+            "domain": "scholar.l.google.com",
+            "TTL": 264,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": true
+      },
+      "doubleclick.net": {
+        "cookie_data": [
+          {
+            "name": "test_cookie",
+            "expires": 8099
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.bmj.com": [
+        {
+          "domain": "www.bmj.com.cdn.cloudflare.net",
+          "TTL": 256,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "thebmjawards.bmj.com": [
+        {
+          "domain": "bmj-b.pagelyhosting.com",
+          "TTL": 293,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.medrxiv.org": [],
+      "group.bmj.com": [
+        {
+          "domain": "d2x7hoca57iv1w.cloudfront.net",
+          "TTL": 53,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "clinicaltrials.gov": [],
+      "youtube.com": [],
+      "www.cdc.gov": [
+        {
+          "domain": "www.akam.cdc.gov",
+          "TTL": 256,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.cookiepro.com": [],
+      "www.gov.uk": [
+        {
+          "domain": "www-cdn.production.govuk.service.gov.uk",
+          "TTL": 875,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www-gov-uk.map.fastly.net",
+          "TTL": 275,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.endnote.com": [
+        {
+          "domain": "live-endnote.pantheonsite.io",
+          "TTL": 23,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "fe1.edge.pantheon.io",
+          "TTL": 593,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "mc.manuscriptcentral.com": [
+        {
+          "domain": "mc.manuscriptcentral.com.edgekey.net",
+          "TTL": 23,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e11410.a.akamaiedge.net",
+          "TTL": 1793,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.zotero.org": [],
+      "www.altmetric.com": [],
+      "www.refworks.com": [
+        {
+          "domain": "refworks.com",
+          "TTL": 293,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "hosted.bmj.com": [
+        {
+          "domain": "lb2.redsnapper.net",
+          "TTL": 293,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "bmjverification.bma.org.uk": [
+        {
+          "domain": "bmjverification.azurewebsites.net",
+          "TTL": 1793,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "waws-prod-ln1-001.vip.azurewebsites.windows.net",
+          "TTL": 1793,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "waws-prod-ln1-001.cloudapp.net",
+          "TTL": 293,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "myaccount.bmj.com": [
+        {
+          "domain": "myaccount.bmj.com.gccdn.net",
+          "TTL": 293,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "jobs.bmj.com": [
+        {
+          "domain": "live.web.static.external.tf.aws.bmjgroup.com",
+          "TTL": 294,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "static-web-live-external-1833412634.eu-west-1.elb.amazonaws.com",
+          "TTL": 294,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.biorxiv.org": [
+        {
+          "domain": "www.biorxiv.org.cdn.cloudflare.net",
+          "TTL": 900,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "feeds.bmj.com": [
+        {
+          "domain": "1i9iefj.feedproxy.ghs.google.com",
+          "TTL": 293,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "home.highwire.org": [
+        {
+          "domain": "bart.highwire.org",
+          "TTL": 293,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.nytimes.com": [
+        {
+          "domain": "www.prd.map.nytimes.com",
+          "TTL": 500,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "www.prd.map.nytimes.xovr.nyt.net",
+          "TTL": 500,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "nytimes.map.fastly.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "bestpractice.bmj.com": [
+        {
+          "domain": "bestpractice.bmj.com.gccdn.net",
+          "TTL": 293,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.ncbi.nlm.nih.gov": [
+        {
+          "domain": "www.wip.ncbi.nlm.nih.gov",
+          "TTL": 1759,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.sciengine.com": [],
+      "web.archive.org": [],
+      "bmj.com": [],
+      "journals.lww.com": [
+        {
+          "domain": "journals.lww.com.cdn.cloudflare.net",
+          "TTL": 1791,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "learning.bmj.com": [
+        {
+          "domain": "learning.bmj.com.gccdn.net",
+          "TTL": 292,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1207,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "s100.copyright.com": [
+        {
+          "domain": "rlnk-pprd-ext2-11053649.us-east-1.elb.amazonaws.com",
+          "TTL": 291,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "journals.bmj.com": [
+        {
+          "domain": "journals.bmj.com.cdn.cloudflare.net",
+          "TTL": 293,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.clinicaltrials.gov": [],
+      "www.refman.com": [
+        {
+          "domain": "refman.com",
+          "TTL": 282,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      ".abstract": [],
+      "tcf.cookiepedia.co.uk": [],
+      "www.trendmd.com": [],
+      "recruiter.bmj.com": [
+        {
+          "domain": "bmjjobs-edge.madgexhosting.net",
+          "TTL": 282,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "blogs.bmj.com": [
+        {
+          "domain": "bmj-b.pagelyhosting.com",
+          "TTL": 282,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "doi.org": [],
+      "masterclasses.bmj.com": [
+        {
+          "domain": "bmj-b.pagelyhosting.com",
+          "TTL": 282,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.procite.com": [
+        {
+          "domain": "procite.com",
+          "TTL": 282,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "openathens-sp.highwire.org": [],
+      "twitter.com": [],
+      "portfolio.bmj.com": [
+        {
+          "domain": "live.portfolio.tf.aws.bmjgroup.com",
+          "TTL": 282,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "portfolio-web-live-1667548029.eu-west-1.elb.amazonaws.com",
+          "TTL": 282,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "princeton.edu/news/2020/09/30/largest-covid-19-contact-tracing-study-date-finds-children-key-spread-evidence": {
+    "cookies": {
+      "princeton.edu": {
+        "cookie_data": [
+          {
+            "name": "_gid",
+            "expires": 93599
+          },
+          {
+            "name": "_gat_gtag_UA_1706522_1",
+            "expires": 7259
+          },
+          {
+            "name": "_ga",
+            "expires": 34567199
+          },
+          {
+            "name": "_ga_92L6B9PQCG",
+            "expires": 34567199
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.snapchat.com": [
+        {
+          "domain": "web-gcp.api.snapchat.com",
+          "TTL": 227,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "web-gcp.api.sc-gw.com",
+          "TTL": 225,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "registrar.princeton.edu": [
+        {
+          "domain": "princetonsb.acquiaedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "princetonsb.acquiaedge.net.cdn.cloudflare.net",
+          "TTL": 60,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "environment.princeton.edu": [
+        {
+          "domain": "cpaneldeptprod.princeton.edu",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "alumni.princeton.edu": [],
+      "www.goprincetontigers.com": [
+        {
+          "domain": "goprincetontigers.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "socialmedia.princeton.edu": [
+        {
+          "domain": "princetonsb.acquiaedge.net",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "princetonsb.acquiaedge.net.cdn.cloudflare.net",
+          "TTL": 60,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 201,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 166,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "covid.princeton.edu": [
+        {
+          "domain": "princetonsb.acquiaedge.net",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "princetonsb.acquiaedge.net.cdn.cloudflare.net",
+          "TTL": 60,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.youtube.com": [
+        {
+          "domain": "youtube-ui.l.google.com",
+          "TTL": 153,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "science.sciencemag.org": [
+        {
+          "domain": "science.sciencemag.org.cdn.cloudflare.net",
+          "TTL": 900,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "rrr.princeton.edu": [
+        {
+          "domain": "princetonsb.acquiaedge.net",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "princetonsb.acquiaedge.net.cdn.cloudflare.net",
+          "TTL": 60,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1175,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.princeton.edu": [
+        {
+          "domain": "www.princeton.edu.cdn.cloudflare.net",
+          "TTL": 1727,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "library.princeton.edu": [
+        {
+          "domain": "lib-adc.princeton.edu",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.twitter.com": [
+        {
+          "domain": "twitter.com",
+          "TTL": 559,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "inside.princeton.edu": [
+        {
+          "domain": "princetonsb.acquiaedge.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "princetonsb.acquiaedge.net.cdn.cloudflare.net",
+          "TTL": 59,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "finaid.princeton.edu": [
+        {
+          "domain": "finaid-acquia.princeton.edu",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "admission.princeton.edu": [
+        {
+          "domain": "admission-acquia.princeton.edu",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1094,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1094,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "accessibility.princeton.edu": [
+        {
+          "domain": "princetonsb.acquiaedge.net",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "princetonsb.acquiaedge.net.cdn.cloudflare.net",
+          "TTL": 59,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "twitter.com": [],
+      "giving.princeton.edu": [
+        {
+          "domain": "princetonalumni.prod.acquia-sites.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ]
+    }
+  },
+  "telegraph.co.uk/global-health/science-and-disease/face-masks-could-giving-people-covid-19-immunity-researchers": {
+    "cookies": {
+      "www.telegraph.co.uk": {
+        "cookie_data": [
+          {
+            "name": "affinity",
+            "expires": -1
+          },
+          {
+            "name": "_topp",
+            "expires": 8983
+          }
+        ],
+        "chain": [
+          {
+            "domain": "telegraph.co.uk.edgekey.net",
+            "TTL": 37,
+            "is_tracker": false,
+            "is_CDN": false,
+            "is_cloaking": false
+          },
+          {
+            "domain": "e8153.a.akamaiedge.net",
+            "TTL": 1777,
+            "is_tracker": false,
+            "is_CDN": true,
+            "is_cloaking": false
+          }
+        ],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "telegraph.co.uk": {
+        "cookie_data": [
+          {
+            "name": "_igt",
+            "expires": -1
+          },
+          {
+            "name": "_ig",
+            "expires": 31543180
+          },
+          {
+            "name": "at_check",
+            "expires": -1
+          },
+          {
+            "name": "artTags",
+            "expires": -1
+          },
+          {
+            "name": "_pctx",
+            "expires": 34135183
+          },
+          {
+            "name": "_pcid",
+            "expires": 34135183
+          },
+          {
+            "name": "AMCVS_2C7336C753C676BA0A490D4B%40AdobeOrg",
+            "expires": -1
+          },
+          {
+            "name": "IR_gbd",
+            "expires": -1
+          },
+          {
+            "name": "IR_14352",
+            "expires": -1
+          },
+          {
+            "name": "mbox",
+            "expires": 34567184
+          },
+          {
+            "name": "s_ecid",
+            "expires": 34567184
+          },
+          {
+            "name": "s_cc",
+            "expires": -1
+          },
+          {
+            "name": "AMCV_2C7336C753C676BA0A490D4B%40AdobeOrg",
+            "expires": 34567184
+          },
+          {
+            "name": "AAMC_tmg_0",
+            "expires": 15559185
+          },
+          {
+            "name": "AAMDFP",
+            "expires": 2599185
+          },
+          {
+            "name": "aam_uuid",
+            "expires": 2599185
+          },
+          {
+            "name": "IR_PI",
+            "expires": 34567185
+          },
+          {
+            "name": "kndctr_2C7336C753C676BA0A490D4B_AdobeOrg_identity",
+            "expires": 34135185
+          },
+          {
+            "name": "kndctr_2C7336C753C676BA0A490D4B_AdobeOrg_cluster",
+            "expires": 8986
+          },
+          {
+            "name": "__tbc",
+            "expires": 34567185
+          },
+          {
+            "name": "__pat",
+            "expires": 2599185
+          },
+          {
+            "name": "__pvi",
+            "expires": 93585
+          },
+          {
+            "name": "xbc",
+            "expires": 34567185
+          },
+          {
+            "name": "_pcus",
+            "expires": 34135185
+          },
+          {
+            "name": "cX_P",
+            "expires": 34135185
+          },
+          {
+            "name": "s_vis_repeat",
+            "expires": 31543185
+          },
+          {
+            "name": "_cb",
+            "expires": 34135185
+          },
+          {
+            "name": "_chartbeat2",
+            "expires": 34135185
+          },
+          {
+            "name": "_cb_svref",
+            "expires": 8985
+          },
+          {
+            "name": "propensityData",
+            "expires": -1
+          },
+          {
+            "name": "cX_G",
+            "expires": 34135190
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "demdex.net": {
+        "cookie_data": [
+          {
+            "name": "demdex",
+            "expires": 15559185
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": true,
+        "is_CDN": false
+      },
+      "piano.io": {
+        "cookie_data": [
+          {
+            "name": "__cf_bm",
+            "expires": 8985
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "cxense.com": {
+        "cookie_data": [
+          {
+            "name": "gckp",
+            "expires": 31543190
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.snapchat.com": [
+        {
+          "domain": "web-gcp.api.snapchat.com",
+          "TTL": 273,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "web-gcp.api.sc-gw.com",
+          "TTL": 273,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "secure.telegraph.co.uk": [
+        {
+          "domain": "secure.telegraph.co.uk-v1.edgekey.net",
+          "TTL": 37,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e5737.a.akamaiedge.net",
+          "TTL": 1777,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "wa.me": [],
+      "shop.telegraph.co.uk": [],
+      "tickets.telegraph.co.uk": [
+        {
+          "domain": "partnerproxy.londontheatredirect.com",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "partnerproxy.azurewebsites.net",
+          "TTL": 300,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "waws-prod-ln1-067.sip.azurewebsites.windows.net",
+          "TTL": 30,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "waws-prod-ln1-067-5993.uksouth.cloudapp.azure.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "corporate.telegraph.co.uk": [
+        {
+          "domain": "thetelegraph.wpengine.com",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "dating.telegraph.co.uk": [],
+      "fantasyfootball.telegraph.co.uk": [
+        {
+          "domain": "telegraph-fantasy.fanhubmedia.com",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.linkedin.com": [
+        {
+          "domain": "www-linkedin-com.l-0005.l-msedge.net",
+          "TTL": 248,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "l-0005.l-msedge.net",
+          "TTL": 213,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "www.chelseamagazines.com": [
+        {
+          "domain": "www.chelseamagazines.com.edgesuite.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "a1535.r.akamai.net",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.youtube.com": [
+        {
+          "domain": "youtube-ui.l.google.com",
+          "TTL": 200,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.facebook.com": [
+        {
+          "domain": "star-mini.c10r.facebook.com",
+          "TTL": 1223,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "www.telegraph.co.uk": [
+        {
+          "domain": "telegraph.co.uk.edgekey.net",
+          "TTL": 35,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8153.a.akamaiedge.net",
+          "TTL": 1775,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "twitter.com": [],
+      "telegraph.newsprints.co.uk": [
+        {
+          "domain": "store-u98h8so70o.mybigcommerce.com",
+          "TTL": 1800,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        }
+      ],
+      "extra.telegraph.co.uk": [
+        {
+          "domain": "telegraph.co.uk.edgekey.net",
+          "TTL": 600,
+          "is_tracker": false,
+          "is_CDN": false,
+          "is_cloaking": false
+        },
+        {
+          "domain": "e8153.a.akamaiedge.net",
+          "TTL": 1774,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "books.telegraph.co.uk": [],
+      "www.instagram.com": [
+        {
+          "domain": "geo-p42.instagram.com",
+          "TTL": 1141,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        },
+        {
+          "domain": "z-p42-instagram.c10r.instagram.com",
+          "TTL": 1141,
+          "is_tracker": false,
+          "is_CDN": true,
+          "is_cloaking": false
+        }
+      ],
+      "gardenshop.telegraph.co.uk": [],
+      "wine.telegraph.co.uk": []
+    }
+  },
+  "onlinelibrary.wiley.com/doi/full/10.1111/bjh.17116": {
+    "cookies": {
+      "onlinelibrary.wiley.com": {
+        "cookie_data": [
+          {
+            "name": "__cf_bm",
+            "expires": 8999
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      },
+      "www.onlinelibrary.wiley.com": {
+        "cookie_data": [
+          {
+            "name": "cf_chl_2",
+            "expires": 10799
+          }
+        ],
+        "chain": [],
+        "is_third_party": true,
+        "is_tracker": false,
+        "is_CDN": false
+      }
+    },
+    "embedded": {
+      "www.cloudflare.com": []
+    }
+  }
+}
